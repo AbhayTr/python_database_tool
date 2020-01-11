@@ -1,5 +1,9 @@
 import ftplib
 import os
+from fileh import download
+from fileh import upload
+from fileh import delete
+from fileh import upload
 
 dbase = []
 dbnom = ""
